@@ -1,3 +1,4 @@
+Area=None
 st.header("calculate Area")
 choose=st.selectbox('choose the shape',['circle','rectangle'])
 if choose=='circle':
